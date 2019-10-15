@@ -1,7 +1,7 @@
 # Sass Portfolio
 
 ## URL:
-https://shiyucheng2018.github.io/Sass-Portfolio/
+https://sass-portfolio-shiyu.netlify.com/
 
 ## Description
 
